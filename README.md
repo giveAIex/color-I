@@ -1,7 +1,7 @@
-#AI Mods测试
+# AI Mods测试
 由AI编写的MCjava|1.21.7的mods
-
-  
+#
+#
 
 # Color I Client Mod
 
